@@ -93,6 +93,9 @@ source ./venv/bin/activate
 pip install -r requirements.txt
 ```
 
+atari-py building issue 
+https://github.com/openai/gym/issues/779
+
 ### 股票数据获取
 
 股票证券数据集来自于 [baostock](http://baostock.com/baostock/index.php/%E9%A6%96%E9%A1%B5)，一个免费、开源的证券数据平台，提供 Python API。
